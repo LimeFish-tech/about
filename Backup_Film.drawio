@@ -1,0 +1,284 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.4 Chrome/138.0.7204.97 Electron/37.2.1 Safari/537.36" version="28.0.4">
+  <diagram name="Страница — 1" id="_pOalg7vywX5bW4eqdyN">
+    <mxGraphModel dx="1968" dy="1970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="htR5nFHT5fzR704HmZVG-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-70" width="2040" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="120" width="730" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="htR5nFHT5fzR704HmZVG-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1890" y="260" as="sourcePoint" />
+            <mxPoint x="2840" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-1" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="880" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-6" value="Непрерывная съемка шоу трумана, 24/7 без единого перерыва" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="25" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="htR5nFHT5fzR704HmZVG-1" target="htR5nFHT5fzR704HmZVG-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="160" as="sourcePoint" />
+            <mxPoint x="1050" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-8" value="Full Backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="120" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="htR5nFHT5fzR704HmZVG-8" target="htR5nFHT5fzR704HmZVG-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="190" as="sourcePoint" />
+            <mxPoint x="970" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-10" value="Новое глобальное состояние города-студии, т.е. новая его структура (относительно предыдущей)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="131.25" width="210" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-11" value="incr&lt;br&gt;backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="280" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-12" value="По сути своей фиксация изменений в структуре Сихэвэна или же события, которые мешают Труману покинуть город. (Точка отсчета от любого предыдущего события)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="283.13" width="212.5" height="73.75" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-13" value="diff&lt;br&gt;backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="htR5nFHT5fzR704HmZVG-11" target="htR5nFHT5fzR704HmZVG-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="380" as="sourcePoint" />
+            <mxPoint x="1040" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-16" value="По сути своей, то же самое, что инкрементальный бэкап в данном контексте, но с единственной разницей, это целый собирательный набор не конкретного события, а всех событий, что происходят и происходили с нового глобального состояния Сихэвэна" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="389.38" width="255" height="101.25" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-17" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="htR5nFHT5fzR704HmZVG-13" target="htR5nFHT5fzR704HmZVG-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="380" as="sourcePoint" />
+            <mxPoint x="1040" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-18" value="Мы снимаем Шоу Трумана" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-40" width="1130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-19" value="Full Backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="190" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-20" value="incr&lt;br&gt;backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="245" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-22" value="diff&lt;br&gt;backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="220" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-23" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-24" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-25" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-26" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-27" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-28" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-29" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-30" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-31" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-32" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-33" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-36" value="Full Backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2067.5" y="186.88" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-37" value="incr&lt;br&gt;backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="245" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-38" value="incr&lt;br&gt;backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="245" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-39" value="incr&lt;br&gt;backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="245" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="274.9" as="sourcePoint" />
+            <mxPoint x="1530" y="275.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="274.9" as="sourcePoint" />
+            <mxPoint x="1630" y="275.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1820" y="274.76" as="sourcePoint" />
+            <mxPoint x="1870" y="274.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1920" y="274.76" as="sourcePoint" />
+            <mxPoint x="1970" y="274.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="230" as="sourcePoint" />
+            <mxPoint x="1720" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-47" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-48" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-49" value="incr&lt;br&gt;backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="245" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-50" value="diff&lt;br&gt;backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="220" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-51" value="incr&lt;br&gt;backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="245" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-52" value="incr&lt;br&gt;backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2600" y="245" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-53" value="incr&lt;br&gt;backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="245" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2210" y="274.9" as="sourcePoint" />
+            <mxPoint x="2260" y="275.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2310" y="274.9" as="sourcePoint" />
+            <mxPoint x="2360" y="275.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2550" y="274.76" as="sourcePoint" />
+            <mxPoint x="2600" y="274.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2650" y="274.76" as="sourcePoint" />
+            <mxPoint x="2700" y="274.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2210" y="230" as="sourcePoint" />
+            <mxPoint x="2450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-59" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-60" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-61" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-62" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-63" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-64" value="WAL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2780" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-67" value="Момент, когда режиссер уверен, что нет смысла возвращаться к старой версии шоу и уверенно блокирует к просмотру старые серии (предположим, что шоу обновлялось с некоторой периодичностью)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1021.25" y="561.25" width="152.5" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-68" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="870" y="555" width="110" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="htR5nFHT5fzR704HmZVG-68">
+          <mxGeometry width="110" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-66" value="Expire" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="htR5nFHT5fzR704HmZVG-68">
+          <mxGeometry width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-69" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="htR5nFHT5fzR704HmZVG-65" target="htR5nFHT5fzR704HmZVG-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="560" as="sourcePoint" />
+            <mxPoint x="1720" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-71" value="Expire| Момент, когда мы удаляем ныне не актуальную версию бэкапа&lt;div&gt;/старые серии шоу(в контексте данного примера, разумеется)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="120" width="630" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="htR5nFHT5fzR704HmZVG-75" target="htR5nFHT5fzR704HmZVG-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2434.75" y="116.12" as="sourcePoint" />
+            <mxPoint x="2200" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2342" y="150" />
+              <mxPoint x="2133" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-75" value="Полная копия БД,&amp;nbsp;&lt;div&gt;которая выполняется &lt;br&gt;раз в определенный&amp;nbsp;&lt;br&gt;период времени (в контексте представленного примера,&lt;/div&gt;&lt;div&gt;&amp;nbsp;см. Легенду)&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="-20" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-76" value="Бэкапы только&amp;nbsp;&lt;div&gt;измененных файлов, с маленькой &lt;br&gt;ремаркой, дифф. бэкапирует&lt;div&gt;&amp;nbsp;только файлы изменившиеся относительно полного бэкапа,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;а&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;инкрементальный,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;относительно любого&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="-50" width="239" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-81" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="htR5nFHT5fzR704HmZVG-50" target="htR5nFHT5fzR704HmZVG-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2460" y="210" as="sourcePoint" />
+            <mxPoint x="2700" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2500" y="130" />
+              <mxPoint x="2590" y="130" />
+              <mxPoint x="2600" y="110" />
+              <mxPoint x="2610" y="130" />
+              <mxPoint x="2690" y="130" />
+              <mxPoint x="2720" y="130" />
+              <mxPoint x="2720" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htR5nFHT5fzR704HmZVG-82" value="" style="endArrow=none;html=1;rounded=0;entryX=0.544;entryY=0.951;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="htR5nFHT5fzR704HmZVG-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2600" y="110" as="sourcePoint" />
+            <mxPoint x="2610" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
